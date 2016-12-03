@@ -2,7 +2,7 @@
 This is a small project that contains the code of a robot called Pancho that I made in 2013 using an Arduino.
 
 ## About the robot
-![First version of the robot](https://github.com/ernestoyaquello/robot-pancho/blob/master/readme-pictures/pancho-v1.jpg?raw=true)
+[![Videos of the robot](https://github.com/ernestoyaquello/robot-pancho/blob/master/readme-pictures/pancho-v1.jpg?raw=true)](https://www.youtube.com/watch?v=KB23F5sOBRM&list=PLEGWjwMvIpLA_UPczvneOlJXuPniuXJPa "Videos of the robot")
 
 This is a robot that can move around on its own avoiding the obstacles in its way. It can also be controlled remotely using an infrared remote, and I actually configured it to accept commands from the remote of my home TV.
 
